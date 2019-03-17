@@ -68,3 +68,7 @@ end
 ```
 
 This is the end. Hopefully this helps out some people's coding!
+
+references:
+- https://ruby-doc.org/core-2.6.2/Object.html#method-i-is_a-3F
+- http://ruby-doc.org/docs/keywords/1.9/Object.html#method-i-case
