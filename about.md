@@ -3,16 +3,37 @@ layout: page
 title: About
 permalink: /about/
 ---
+# I love
+---
+- Ruby
+- Ruby on Rails
+- GraphQL
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# EDUCATION
+---
+__Chuo University__
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tokyo Bunkyo-ku Kasuga • 2018
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+__Bachelor Of Engineering__: Electrical, Electronic And Communication Engineering
 
+# WORK HISTORY
+---
+__ZOZO Technologies, Inc - Backend Developer__
 
-[jekyll-organization]: https://github.com/jekyll
+Shibuya, Tokyo • 04/2018 - current
+
+__VASILY, Inc - Backend Developer Internship__
+
+Shinagawa, Tokyo • 03/2017 - 03/2018
+
+# OSS
+---
+Ruby
+- https://github.com/ruby/rdoc/pull/634 
+
+Ruby on Rails
+- https://github.com/rails/rails/pull/35285 
+
+graphql-ruby
+- https://github.com/rmosolgo/graphql-ruby/pull/2140
