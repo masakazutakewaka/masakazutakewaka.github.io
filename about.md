@@ -4,15 +4,13 @@ title: about (I'm moving to Berlin or Canada in May 2019 !!!)
 permalink: /about/
 ---
 
-# Summary
-Backend Developer proficient in development with Ruby on Rails.
-I have 2.5 years of progressive experience in the field.
-
-# I love
+# SUMMARY
 ---
-- Ruby
-- Ruby on Rails
-- GraphQL
+Backend Developer proficient in development with Ruby on Rails.
+
+2.5 years of progressive experience in the field.
+
+Love Ruby, Ruby on Rails and GraphQL.
 
 # EDUCATION
 ---
