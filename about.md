@@ -27,6 +27,10 @@ __VASILY, Inc - Backend Developer Internship__
 
 Shinagawa, Tokyo • 03/2017 - 03/2018
 
+__QUADRAC, Inc - Software engineer Internship__
+
+Chiyoda, Tokyo • 08/2016 - 09/2016
+
 # OSS
 ---
 Ruby
