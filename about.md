@@ -1,16 +1,16 @@
 ---
 layout: page
-title: about (I'm moving to Berlin or Canada in May 2019 !!!)
+title: about
 permalink: /about/
 ---
 
 # SUMMARY
 ---
-Backend Developer proficient in development with Ruby on Rails.
+Backend Developer based in Vancouver BC, Canada.
 
 2.5 years of progressive experience in the field.
 
-Love Ruby, Ruby on Rails and GraphQL.
+Proficient in Ruby, Ruby on Rails and GraphQL.
 
 # EDUCATION
 ---
@@ -37,10 +37,10 @@ Chiyoda, Tokyo • 08/2016 - 09/2016
 # OSS
 ---
 Ruby
-- https://github.com/ruby/rdoc/pull/634 
+- https://github.com/ruby/rdoc/pull/634
 
 Ruby on Rails
-- https://github.com/rails/rails/pull/35285 
+- https://github.com/rails/rails/pull/35285
 
 graphql-ruby
 - https://github.com/rmosolgo/graphql-ruby/pull/2140
