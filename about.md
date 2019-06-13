@@ -1,14 +1,14 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 
 # SUMMARY
 ---
-Backend Developer based in Vancouver BC, Canada.
+Developer based in Vancouver BC, Canada.
 
-2.5 years of progressive experience in the field.
+2.5 years of professional experience in the field.
 
 Proficient in Ruby, Ruby on Rails and GraphQL.
 
@@ -24,9 +24,9 @@ __Bachelor Of Engineering__: Electrical, Electronic And Communication Engineerin
 ---
 __ZOZO Technologies, Inc - Backend Developer__
 
-Shibuya, Tokyo • 04/2018 - current
+Shibuya, Tokyo • 04/2018 - 05/2019
 
-__VASILY, Inc - Backend Developer Internship__
+__VASILY, Inc - Backend Developer Part-time__
 
 Shinagawa, Tokyo • 03/2017 - 03/2018
 
@@ -36,6 +36,11 @@ Chiyoda, Tokyo • 08/2016 - 09/2016
 
 # OSS
 ---
+### Author
+rafter
+- https://github.com/masakazutakewaka/rafter
+
+### Contribution
 Ruby
 - https://github.com/ruby/rdoc/pull/634
 
