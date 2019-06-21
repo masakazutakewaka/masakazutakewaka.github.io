@@ -43,6 +43,7 @@ rafter
 ### Contribution
 Ruby
 - https://github.com/ruby/rdoc/pull/634
+- https://github.com/ruby/webrick/pull/19
 
 Ruby on Rails
 - https://github.com/rails/rails/pull/35285
