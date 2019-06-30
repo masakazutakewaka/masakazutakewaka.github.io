@@ -22,6 +22,10 @@ __Bachelor Of Engineering__: Electrical, Electronic And Communication Engineerin
 
 # WORK HISTORY
 ---
+__Ekohe - Senior Full-stack Developer__
+
+Vancouver, BC • 06/2019 - current
+
 __ZOZO Technologies, Inc - Backend Developer__
 
 Shibuya, Tokyo • 04/2018 - 05/2019
@@ -37,16 +41,17 @@ Chiyoda, Tokyo • 08/2016 - 09/2016
 # OSS
 ---
 ### Author
-rafter
-- https://github.com/masakazutakewaka/rafter
+[__rafter__: Rails plugin for integration with Ridgepole](https://github.com/masakazutakewaka/rafter)
+
+[__rspec-nlet__: RSpec extension to define multiple helpers with let](https://github.com/masakazutakewaka/rspec-nlet)
 
 ### Contribution
 Ruby
-- https://github.com/ruby/rdoc/pull/634
-- https://github.com/ruby/webrick/pull/19
+- [https://github.com/ruby/rdoc/pull/634](https://github.com/ruby/rdoc/pull/634)
+- [https://github.com/ruby/webrick/pull/19](https://github.com/ruby/webrick/pull/19)
 
 Ruby on Rails
-- https://github.com/rails/rails/pull/35285
+- [https://github.com/rails/rails/pull/35285](https://github.com/rails/rails/pull/35285)
 
 graphql-ruby
-- https://github.com/rmosolgo/graphql-ruby/pull/2140
+- [https://github.com/rmosolgo/graphql-ruby/pull/2140](https://github.com/rmosolgo/graphql-ruby/pull/2140)
