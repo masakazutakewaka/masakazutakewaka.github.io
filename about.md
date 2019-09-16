@@ -41,6 +41,8 @@ Chiyoda, Tokyo • 08/2016 - 09/2016
 # OSS
 ---
 ### Author
+[__shinerd__: Web based interactive ERD generator](https://github.com/masakazutakewaka/shinerd)
+
 [__rafter__: Rails plugin for integration with Ridgepole](https://github.com/masakazutakewaka/rafter)
 
 [__rspec-nlet__: RSpec extension to define multiple helpers with let](https://github.com/masakazutakewaka/rspec-nlet)
