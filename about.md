@@ -8,9 +8,11 @@ permalink: /about/
 ---
 Developer based in Vancouver BC, Canada.
 
-3 years of professional experience in the field.
+Proficient in Ruby on Rails.
 
-Proficient in Ruby, Ruby on Rails and GraphQL.
+Experienced in PostgreSQL and Ubuntu.
+
+Interested in OS, Database and Network.
 
 # EDUCATION
 ---

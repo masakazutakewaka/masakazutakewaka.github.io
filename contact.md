@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-- [Twitter](https://twitter.com/takeWakaMaru666)
 - [Github](https://github.com/masakazutakewaka)
-- [LinkedIn](https://www.linkedin.com/in/masakazutakewaka/?locale=en_US)
+- [Twitter](https://twitter.com/takeWakaMaru666)
+- [Medium](https://medium.com/@takewakamma)
 - [dev.to](https://dev.to/masakazutakewaka)
