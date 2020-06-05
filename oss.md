@@ -13,7 +13,7 @@ Ruby on Rails
 - [https://github.com/rails/rails/pull/35285](https://github.com/rails/rails/pull/35285)
 - [https://github.com/rails/rails/pull/36723](https://github.com/rails/rails/pull/36723)
 
-graphql-ruby
+GraphQL
 - [https://github.com/rmosolgo/graphql-ruby/pull/2140](https://github.com/rmosolgo/graphql-ruby/pull/2140)
 
 Selenium
