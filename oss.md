@@ -17,4 +17,5 @@ GraphQL
 - [https://github.com/rmosolgo/graphql-ruby/pull/2140](https://github.com/rmosolgo/graphql-ruby/pull/2140)
 
 Selenium
+- [https://github.com/SeleniumHQ/selenium/pull/8408](https://github.com/SeleniumHQ/selenium/pull/8408)
 - [https://github.com/seleniumhq/selenium/pull/8392](https://github.com/SeleniumHQ/selenium/pull/8392)
