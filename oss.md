@@ -18,4 +18,4 @@ GraphQL
 
 Selenium
 - [https://github.com/SeleniumHQ/selenium/pull/8408](https://github.com/SeleniumHQ/selenium/pull/8408)
-- [https://github.com/seleniumhq/selenium/pull/8392](https://github.com/SeleniumHQ/selenium/pull/8392)
+- [https://github.com/seleniumHQ/selenium/pull/8392](https://github.com/SeleniumHQ/selenium/pull/8392)
