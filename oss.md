@@ -20,3 +20,4 @@ Selenium
 - [https://github.com/SeleniumHQ/selenium/pull/8410](https://github.com/SeleniumHQ/selenium/pull/8410)
 - [https://github.com/SeleniumHQ/selenium/pull/8408](https://github.com/SeleniumHQ/selenium/pull/8408)
 - [https://github.com/seleniumHQ/selenium/pull/8392](https://github.com/SeleniumHQ/selenium/pull/8392)
+- [https://github.com/SeleniumHQ/seleniumhq.github.io/pull/445](https://github.com/SeleniumHQ/seleniumhq.github.io/pull/445)
