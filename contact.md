@@ -8,3 +8,4 @@ permalink: /contact/
 - [Twitter](https://twitter.com/takeWakaMaru666)
 - [Medium](https://medium.com/@takewakamma)
 - [dev.to](https://dev.to/masakazutakewaka)
+- [はてブロ](https://takewaka.hatenablog.com)
